@@ -1,3 +1,5 @@
+Based on https://github.com/esx-framework/esx-legacy
+
 <h1 align='center'>ESX Legacy</a></h1><p align='center'><b><a href='https://discord.gg/cNx6HF9P5J'>Development Discord</a> - <a href='https://esx-framework.org/'>Website</a> - <a href='https://discord.gg/J6VqFPwvVp'>Support Discord</a></b></h5>
 
 
